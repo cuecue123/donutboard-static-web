@@ -1,6 +1,7 @@
 {
-  "fakeApi": 
+  "posts":[ 
     {
+    "id" : 1,
     "overall": 88,
     "factors": [
         {"score_name": "Restaurants", "score_value": 92 },
@@ -18,7 +19,8 @@
         {"score_name": "Golf Courses", "score_value": 43 },
         {"score_name": "Hospitals", "score_value": 88 }
     ]
-   },
+   }
+  ],
   "profile": {
     "name": "typicode"
   }
